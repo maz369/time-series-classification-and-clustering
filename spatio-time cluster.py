@@ -49,7 +49,6 @@ class ts_cluster(object):
         return self.s2
         
     
-    
     def k_means_clust(self,data,num_iter,w,progress=True):
         
         '''
